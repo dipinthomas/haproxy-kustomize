@@ -24,7 +24,7 @@ This repository contains kustomize kubernetes manifest using which a  [HAProxy](
 
 ![Architecture](HAProxy.png?raw=true "Title")
 
-After deployment HAProxy will be running on each and every worker node. HAProxy service will access traffic on three ports, 80, 5000 & 9000.
+After deployment, HAProxy will be running on each and every worker node. HAProxy service will accept traffic on three ports, 80, 5000 & 9000.
 
 * 80 - Incoming request which will be forwarded to a backend service
 * 5000 - Flask application which will fetch and return ec2-metadata when running on EKS.
