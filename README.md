@@ -30,7 +30,7 @@ After deployment HAProxy will be running on each and every worker node. HAProxy 
 * 5000 - Flask application which will fetch and return ec2-metadata when running on EKS.
 * 9000 - HA proxy health & traffic stats 
 
-# How to Deploy
+# Deploy
 
 Step 1: kubectl version  1.14.X or higher
 
