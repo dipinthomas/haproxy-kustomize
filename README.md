@@ -43,7 +43,7 @@ Step 2: Clone this repository
 
 Step 3: Deployment
 
-`kubectl apply -k HAProxy`
+`kubectl apply -k haproxy-kustomize`
 
 
 
