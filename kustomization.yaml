@@ -22,7 +22,7 @@ configMapGenerator:
 resources:
     - ha-proxy-deployment.yaml
     - nginx-deployment.yaml
-    - service.yaml
+    - haproxy-service.yaml
     - nginx-service.yaml
 
 
