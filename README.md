@@ -39,7 +39,7 @@ Step 1: kubectl version  1.14.X or higher
 
 Step 2: Clone this repository
 
-`git clone `
+`git clone https://github.com/dipinthomas/haproxy-kustomize.git `
 
 Step 3: Deployment
 
