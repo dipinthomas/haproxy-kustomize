@@ -4,7 +4,7 @@
 
 ## Repository Overview
 
-This repository contains kustomize kubernetes manifest using which  a[HAProxy](https://www.haproxy.com/) [daemonset](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/) can be deployed on EKS or any kubernetes platform. 
+This repository contains kustomize kubernetes manifest using which a  [HAProxy](https://www.haproxy.com/) [daemonset](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/) can be deployed on EKS or any kubernetes platform. 
 
 ## Files Overview
 
